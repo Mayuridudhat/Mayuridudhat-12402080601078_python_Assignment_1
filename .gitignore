@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+assignment_tracker_data.json*
+credit.csv
+debit.csv
+error.csv
+*.pkl
